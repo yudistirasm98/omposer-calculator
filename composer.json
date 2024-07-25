@@ -1,0 +1,19 @@
+{
+  "name": "programeryudis/calculator",
+  "description": "calculator sederhana",
+  "type": "library",
+  "authors": [
+    {
+      "name": "yudistirasm98",
+      "email": "yudistirasm@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "8.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "programer\\belajar\\": "src/"
+    }
+  }
+}
